@@ -15,7 +15,7 @@ A simple image encryption tool that allows users to encrypt and decrypt images t
 ### Steps
 ```bash
 git clone https://github.com/hacker123676/PRODIGY_CS_2.git
-cd PRODIGY_TrackCode_TaskNumber
+cd PRODIGY_CS_2
 pip install -r requirements.txt
 Usage:
 To encrypt an image:
